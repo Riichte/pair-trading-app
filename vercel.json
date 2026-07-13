@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/cron/log-prices",
-      "schedule": "0 * * * *"
+      "schedule": "0 14 * * 1-5"
     }
   ]
 }
